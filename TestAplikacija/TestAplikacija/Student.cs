@@ -25,6 +25,14 @@ namespace TestAplikacija
             return "Ime: "+Ime+" Godine: "+Godine;
         }
 
+        public static void ispisDaLiJeStudentPunoletan(Student s)
+        {
+            if (s.godine < 18)
+            {
+                Console.WriteLine("Student je maloletan");
+            }
+            else Console.WriteLine("Student je punoletan");
+        }
 
         
 
