@@ -5,3 +5,5 @@ Console.WriteLine("Hello, World!");
 
 
 Student s = new Student( "Nikola",22);
+Console.WriteLine(s);
+
