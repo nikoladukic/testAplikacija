@@ -31,7 +31,7 @@ namespace TestAplikacija
             {
                 Console.WriteLine("Student je maloletan");
             }
-            else Console.WriteLine("Student je punoletan");
+            else Console.WriteLine("Student je pounoletan");
         }
 
         
