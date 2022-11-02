@@ -1,0 +1,15 @@
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\obj\Debug\net6.0\TestAplikacija.csproj.AssemblyReference.cache
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\obj\Debug\net6.0\TestAplikacija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\obj\Debug\net6.0\TestAplikacija.AssemblyInfoInputs.cache
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\obj\Debug\net6.0\TestAplikacija.AssemblyInfo.cs
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\obj\Debug\net6.0\TestAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\bin\Debug\net6.0\TestAplikacija.exe
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\bin\Debug\net6.0\TestAplikacija.deps.json
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\bin\Debug\net6.0\TestAplikacija.runtimeconfig.json
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\bin\Debug\net6.0\TestAplikacija.dll
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\bin\Debug\net6.0\TestAplikacija.pdb
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\obj\Debug\net6.0\TestAplikacija.dll
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\obj\Debug\net6.0\refint\TestAplikacija.dll
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\obj\Debug\net6.0\TestAplikacija.pdb
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\obj\Debug\net6.0\TestAplikacija.genruntimeconfig.cache
+C:\Users\ndukic\Documents\testAplikacija\TestAplikacija\TestAplikacija\obj\Debug\net6.0\ref\TestAplikacija.dll
